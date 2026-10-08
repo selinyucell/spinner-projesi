@@ -1,1 +1,1 @@
-# spinner-projesi
+# css-spinner
